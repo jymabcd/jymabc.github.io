@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "abc / abc的主页"
+title                    : "张洪刚"
 title_separator          : "-"
 name                     : &name "测试1"
 description              : &description "测试2"
@@ -21,9 +21,8 @@ repository               : "jymabcd/jymabc.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "zhanghonggang.png"
-  name             : "测试3"
-  pronouns         : "he"  
+  avatar           : "/images/zhanghonggang.png"
+  name             : "张洪刚"
   bio              : "测试4"
   location         : "测试5"
   employer         : "测试6"
