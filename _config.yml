@@ -12,7 +12,7 @@ title                    : "张洪刚"
 title_separator          : "-"
 name                     : &name "测试1"
 description              : &description "测试2"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jymabcd.github.io/jymabc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jymabcd/jymabc.github.io"
 
